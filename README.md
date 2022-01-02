@@ -10,7 +10,7 @@ Official Growtopia Website https://growtopiagame.com/shop
 
 The things you need to install it.
 
-* You need hosting that support html and php.
+* You need hosting that support html, css and php.
 * Good domain to fall people to this, but not necessary.
 
 ## Preview/Screenshots
